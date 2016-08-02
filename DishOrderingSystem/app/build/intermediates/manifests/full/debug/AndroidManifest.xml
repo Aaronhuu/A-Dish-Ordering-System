@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test"
+    android:versionCode="23"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Material.NoActionBar.TranslucentDecor" >
+        <activity
+            android:name="com.example.test.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.test.Layout2"
+            android:label="@string/title_activity_Layout2" >
+        </activity>
+        <activity
+            android:name="com.example.test.menuActivity"
+            android:label="@string/title_activity_menulist"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.enterActivity"
+            android:label="@string/title_activity_menulist" >
+        </activity>
+        <activity
+            android:name="com.example.test.ChefActivity"
+            android:label="@string/title_activity_chef"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ChefViewDishesActivity"
+            android:label="OrderList"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.WaitressActivity"
+            android:label="Waiter"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ReceiptActivity"
+            android:label="@string/title_activity_chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.officialReceiptActivity"
+            android:label="@string/title_activity_chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ModifyOrderActivity"
+            android:label="Modify Orders"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ManagerActivity"
+            android:label="MNANAGER" >
+        </activity>
+        <activity
+            android:name="com.example.test.AllocateChefActivity"
+            android:label="Allocate chef"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.CheflistActivity"
+            android:label="Chef List"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ViewCommentActivity"
+            android:label="Comments"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.LeaveCommentActivity"
+            android:label="Comments"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ChangeMenuActivity"
+            android:label="Change Menu"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ChangeMenuDetailsActivity"
+            android:label="Change Menu" >
+        </activity>
+        <activity
+            android:name="com.example.test.ApplyVIPActivity"
+            android:label="Change Menu" >
+        </activity>
+        <activity
+            android:name="com.example.test.SetDiscountActivity"
+            android:label="Set Discount"
+            android:theme="@style/chef" >
+        </activity>
+        <activity
+            android:name="com.example.test.ChooseDiscountLevelActivity"
+            android:label="Set Discount" >
+        </activity>
+        <activity
+            android:name="com.example.test.BossActivity"
+            android:label="Set Discount" >
+        </activity>
+        <activity
+            android:name="com.example.test.ViewanalysisActivity"
+            android:label="Analysis" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

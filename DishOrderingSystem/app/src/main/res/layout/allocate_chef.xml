@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout2"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="10px"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="10px"
+    android:background="#a0bf7c">
+
+
+        <TextView
+            android:id="@+id/allocatetable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="25sp" />
+
+        <Space
+            android:id="@+id/waitressspace"
+            android:layout_width="50px"
+            android:layout_height="20px"
+            android:layout_gravity="center_vertical"/>
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="right"
+        android:background="#65934a">
+
+        <TextView
+            android:id="@+id/cheffortable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="15sp" />
+
+        <Space
+            android:layout_width="50px"
+            android:layout_height="20px"
+            android:layout_gravity="center_vertical"/>
+
+
+        <Button
+            android:id="@+id/btnviewchef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text=" Allocate Chef "
+            android:background="#407434" />
+
+
+            </LinearLayout>
+
+
+
+
+    </LinearLayout>

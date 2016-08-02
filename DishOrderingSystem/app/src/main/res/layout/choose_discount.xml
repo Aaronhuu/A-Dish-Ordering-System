@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="CHOOSE A  DISCOUNT LEVEL"
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#f9cb00" />
+
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="50dp" />
+
+        <Button
+            android:layout_width="216dp"
+            android:layout_height="97dp"
+            android:text="CU: 90%"
+            android:id="@+id/btnCU"
+            android:layout_gravity="center_horizontal"
+            android:background="#c8ac5118" />
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="10dp" />
+
+        <Button
+            android:layout_width="216dp"
+            android:layout_height="97dp"
+            android:text="Sliver: 85%"
+            android:id="@+id/btnSL"
+            android:layout_gravity="center_horizontal"
+            android:background="#c8b4b4b4" />
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="10dp" />
+
+        <Button
+            android:layout_width="216dp"
+            android:layout_height="97dp"
+            android:text="Gold: 80%"
+            android:id="@+id/btnGD"
+            android:layout_gravity="center_horizontal"
+            android:background="#c8fdda04" />
+    </LinearLayout>
+
+</LinearLayout>

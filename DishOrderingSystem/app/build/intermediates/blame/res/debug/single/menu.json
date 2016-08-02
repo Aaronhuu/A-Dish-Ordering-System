@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/menu/chef.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/menu/chef.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/menu/bossmenu.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/menu/bossmenu.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/menu/bossmenu.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/menu/bossmenu.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/menu/chef.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/menu/chef.xml"
+    }
+]

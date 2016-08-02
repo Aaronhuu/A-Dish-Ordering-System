@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#1d1d1d">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/receipt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Receipt (Unofficial)"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/corp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Duoguo Corp."
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#A4A4A4" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <ListView
+            android:id="@+id/MyListView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:textColor="#000000"
+            android:scrollbars="none" >
+        </ListView>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+            <TextView
+                android:id="@+id/totalprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Total Price: 100 RMB"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/priceafterdiscount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="After Discount: 100 RMB"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:id="@+id/tel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="TEL:123-1234-1324"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#A4A4A4"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="E-mail: qwaszx@gmail.com"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#A4A4A4"
+                android:textSize="15sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="39dp" />
+
+            <Button
+                android:id="@+id/print"
+                android:layout_width="match_parent"
+                android:layout_height="102dp"
+                android:layout_gravity="center"
+                android:text="Print Official Receipt"
+                android:background="#f41f1f" />
+
+            <Button
+                android:id="@+id/applyvip"
+                android:layout_width="match_parent"
+                android:layout_height="102dp"
+                android:layout_gravity="center"
+                android:text="Apply VIP"
+                android:background="#eb7777" />
+
+            <Button
+                android:id="@+id/leavecomment"
+                android:layout_width="match_parent"
+                android:layout_height="102dp"
+                android:layout_gravity="center"
+                android:text="leave comment"
+                android:background="#60c9de" />
+
+            <TextView
+                android:id="@+id/ggiguu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PAY ONLINE:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#f4d3a8" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="500px"
+                android:src="@drawable/onlinepay"
+                android:background="#ffffff" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

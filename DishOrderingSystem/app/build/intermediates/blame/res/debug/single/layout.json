@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/analysis_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/analysis_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/allocate_chef.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/allocate_chef.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/my_listitem.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/my_listitem.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/layout1.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/layout1.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/my_listitem.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/my_listitem.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/manager_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/manager_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/view_comment.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/view_comment.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/boss_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/boss_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/waitress_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/waitress_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/change_page.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/change_page.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/chef_dishlist.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/chef_dishlist.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/change_page.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/change_page.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/leave_comment.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/leave_comment.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/receipt_official.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/receipt_official.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/manager_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/manager_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/view_comment.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/view_comment.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/set_discount.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/set_discount.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/chef_list.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/chef_list.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/choose_discount.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/choose_discount.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/chef_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/chef_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/apply_vip.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/apply_vip.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/unofficial_receipt_list.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/unofficial_receipt_list.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/modify_order.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/modify_order.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/menulist.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/menulist.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/choose_discount.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/choose_discount.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/waitress_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/waitress_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/set_discount.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/set_discount.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/apply_vip.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/apply_vip.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/unofficial_receipt_list.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/unofficial_receipt_list.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/chef_dishlist.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/chef_dishlist.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/modify_order.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/modify_order.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/allocate_chef.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/allocate_chef.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/analysis_main.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/analysis_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/change_menu.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/change_menu.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/change_menu.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/change_menu.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/layout2.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/layout2.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/leave_comment.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/leave_comment.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/boss_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/boss_main.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/chef_list.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/chef_list.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/menulist.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/menulist.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/layout1.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/layout1.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Documents/workspace/test1/app/build/intermediates/res/merged/debug/layout/layout2.xml",
+        "source": "/Users/aaronhu/Documents/workspace/test1/app/src/main/res/layout/layout2.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/receipt_official.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/receipt_official.xml"
+    },
+    {
+        "merged": "/Users/aaronhu/Desktop/test1/app/build/intermediates/res/merged/debug/layout/chef_main.xml",
+        "source": "/Users/aaronhu/Desktop/test1/app/src/main/res/layout/chef_main.xml"
+    }
+]
